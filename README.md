@@ -1,4 +1,5 @@
 ### Hi there 👋
+## 난 임수연이다 ✨
 
 <!--
 **lim-sooyeon/lim-sooyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

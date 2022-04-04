@@ -1,4 +1,4 @@
-### Hi there! 👏
+# Hi there! 👏
 ## I wanna be a web developer. 🤟
 ## I'm currently learing Java. 👍
 ## And also i've been studying Engineer information processing to get a certification. 👊

@@ -1,8 +1,8 @@
 Hi there! 👏
-I wanna be a web developer. 🤟
+I wanna be a backend developer. 😄
 I'm currently learing Java. 👍
-And also i've been studying Engineer information processing to get a certification. 👊
-I'll write study log on github. 👋
+And also i've been studying Engineer information processing to get a certification. ⚡
+I'll write study log on github. 🌱
 
 <!--
 **lim-sooyeon/lim-sooyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
